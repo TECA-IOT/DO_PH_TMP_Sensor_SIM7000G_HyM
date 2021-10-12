@@ -1,0 +1,8 @@
+Sensor PH:
+https://atlas-scientific.com/kits/gravity-analog-ph-kit/
+
+Sensor D.O. (Oxigeno  disuelto):
+https://atlas-scientific.com/kits/gravity-analog-do-kit/
+
+Sensor de temperatura:
+https://programarfacil.com/blog/arduino-blog/ds18b20-sensor-temperatura-arduino/
